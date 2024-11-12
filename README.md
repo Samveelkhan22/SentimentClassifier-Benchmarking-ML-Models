@@ -67,15 +67,21 @@ In terms of precision, Naive Bayes showed the highest performance for the positi
 ## Model Summary:
 
 •	Logistic Regression:
+
 o	Best for balanced precision and recall for the positive class.
+
 o	Overall accuracy: 63%.
 
 •	Naive Bayes:
+
 o	Best for precision for positive sentiment, but lower recall.
+
 o	Overall accuracy: 61%.
 
 •	SVM:
+
 o	Best recall for the positive class among all models, with a trade-off in precision.
+
 o	Overall accuracy: 62%.
 
 ## Future Work
